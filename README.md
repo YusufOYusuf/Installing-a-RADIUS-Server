@@ -44,11 +44,6 @@ In the pop up window select "Add Features" and then select next three times then
 
 
 
-<br />
-Let the installation fully finish before continuing  <br/>
-<img src="https://i.postimg.cc/ryC3hxyM/Screen-Shot-2022-08-25-at-11-37-17-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
-<br />
-
 
   
 
@@ -79,11 +74,6 @@ In the Network Policy Server Window from the Standard Configuration List make su
 
 
 
-
-<br />
-Below the list select "Configure VPN or Dial-Up"  <br/>
-<img src="https://i.postimg.cc/66MgJZgK/Screen-Shot-2022-08-25-at-11-49-24-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
-<br />
 
 
 
